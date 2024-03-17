@@ -1,0 +1,6 @@
+# Ignorar a pasta lib
+lib/
+
+# Ignorar arquivos específicos (substitua pelos nomes reais dos arquivos)
+arquivo1.txt
+arquivo2.py
